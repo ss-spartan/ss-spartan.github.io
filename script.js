@@ -51,7 +51,7 @@ var users = {
 	yohan: {
 		username: 'Yohan',
 		nameColor: 'hsl(345, 50%, 52%)',
-		avatar: 'https://imgur.com/u7kqarK'
+		avatar: 'https://imgur.com/u7kqarK.png'
 	},
 	spartan: {
 		username: 'Spartan',
