@@ -51,7 +51,7 @@ var users = {
 	yohan: {
 		username: 'Yohan',
 		nameColor: 'hsl(345, 50%, 52%)',
-		avatar: 'https://imgur.com/u7kqarK.png'
+		avatar: 'https://cdn.discordapp.com/avatars/275240603447721984/2c37119d78495fe2ab80ea77d49e23c6.webp?size=4096'
 	},
 	spartan: {
 		username: 'Spartan',
